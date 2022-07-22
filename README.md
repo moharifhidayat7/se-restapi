@@ -16,5 +16,5 @@ npm install
 5. Jalankan seeder dengan ```node ace db:seed```
 6. Jalankan aplikasi dengan ```node ace serve --watch```
 7. Uji coba dengan file Postman "Kasir Pintar.postman_collection.json"
-8. Jalankan request login untuk mendapatkan token.
+8. Jalankan request Login untuk mendapatkan token.
 9. Jalankan request lainnya dengan mengganti Authorization Header dengan token yang sudah didapat.
